@@ -1,7 +1,9 @@
-# Ruler of the Plane
+# Stealth game
 
-Ruler of the Plane is a set of games illustrating concepts from combinatorial and computational geometry. The games are based on the art gallery problem, ham-sandwich cuts, the Voronoi game, and geometric network connectivity problems like the Euclidean minimum spanning tree and traveling salesperson problem. 
+The game features five levels. A single level of the game presents the player with a simple 2D polygon $P$ with cameras placed inside it. The polygon is allowed to have holes. The cameras are points that have a 2D vision cone which observes part of P.
 
-The games are implemented using C# in the game engine Unity.
+![alt text](https://github.com/LeonVitanos/StealthGame/blob/master/screenshots/screenshot.png?raw=true)
 
-On https://kbuchin.github.io/ruler/ you can also play the WebGL version of the game (and branches).
+The player can move their character, a small green square, using the arrow keys or WASD. Their objective is to reach the goal, a small yellow area, without being observed by any of the cameras. The player is allowed to disable $x$ number of cameras at a time by clicking on them with the mouse pointer, where $x$ can vary by level.
+
+We are utilizing the existing code written for the Ruler of the Plane project. We are making use of several of the existing classes to handle some of the lower-level computations and objects, such as Polygon2D for storing 2D polygons and Triangulation for generating meshes from those polygons.
