@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 2242470311464668190b0d2e042b10231512162f3f67352428281127ead63d3bf6e824f0a92f31352d1b
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 2242470311464668190b0d2e042b10231512162f3f67352428281127eac43135eda923e7ee2e26
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 2242470311464668190b0d2e042b10231512162f3f670a353b2c1120add3203de3eb22c5e22c3a300d07fc284a2b0f36e613
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 2242470311464668190b0d2e042b10231512162f3f67352428281127eacd3136f7a923e7ee2e26
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 2242470311464668190b0d2e042b10231512162f3f670a353b2c1120add3203de3eb22e1cb3f29393550a1290a371526
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 2242470311464668190b0d2e042b10231512162f3f670a353b2c1120add3203de3eb22e1cb3f29393553a1290a371526
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 2242470311464668190b0d2e042b10231512162f3f670a353b2c1120add3203de3eb22e1cb3f29393530be721130082beb
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 2242470311464668190b0d2e042b10231512162f3f670a353b2c1120add3203de3eb22e1cb3f2939352ebe721130082beb
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 2242470311464668190b0d2e042b10231512162f3f670a353b2c1120add3203de3eb22e1cb3f29393530bd721130082beb
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 2242470311464668190b0d2e042b10231512162f3f67352428281127eac52c28eee638e8f33330327717e1351027
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 0
